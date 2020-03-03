@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "853780183613",
+    "firebase_url": "https://reindeerme-292f5.firebaseio.com",
+    "project_id": "reindeerme-292f5",
+    "storage_bucket": "reindeerme-292f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:853780183613:android:13474c5702858664",
+        "android_client_info": {
+          "package_name": "com.amr.mineapps.reindeerme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "853780183613-rsja474kh90sc33rg5uhs73j09li0v36.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.amr.mineapps.reindeerme",
+            "certificate_hash": "93298221ef908c3c50b57c60ca7695ed811c45f4"
+          }
+        },
+        {
+          "client_id": "853780183613-lkhih8s2g0u35jkocirmj9bh06vl6kbi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALWIGYzHwAfkfbGJJHKOQxwC_Mo_PjsqA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "853780183613-lkhih8s2g0u35jkocirmj9bh06vl6kbi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

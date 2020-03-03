@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#9e47ff</color>
+    <color name="colorPrimaryDark">#6709cb</color>
+    <color name="colorAccent">#d479ff</color>
+    <color name="colorSecondary">#b6e3ff</color>
+    <color name="colorSecondaryDark">#85b1cc</color>
+    <color name="deerTheme">#6200ee</color>
+    <color name="white">#FFFFFF</color>
+</resources>

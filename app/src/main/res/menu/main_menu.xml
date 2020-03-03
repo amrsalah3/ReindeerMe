@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/about_option"
+        android:title="@string/about"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/settings_option"
+        android:title="@string/settings"
+        app:showAsAction="never" />
+    <!--<item
+        android:id="@+id/search_button"
+        android:icon="@drawable/ic_search"
+        android:title="@string/search"
+        app:showAsAction="ifRoom|collapseActionView"
+        app:actionViewClass="android.widget.SearchView"/>-->
+    <item
+        android:id="@+id/search_button"
+        android:icon="@drawable/ic_search"
+        android:title="@string/search"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/add_friend_button"
+        android:icon="@drawable/ic_add"
+        android:title="@string/add_friend"
+        app:showAsAction="ifRoom" />
+
+</menu>
